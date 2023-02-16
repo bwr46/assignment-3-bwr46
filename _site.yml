@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Bryce"
+      href: bryce.html
+    - text: "Caitlin"
+      href: Caitlin.html  
