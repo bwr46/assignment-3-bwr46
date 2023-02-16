@@ -1,14 +1,10 @@
 ---
-title: "Penguins"
+title: "Pterrific Pteredroma"
 author: "Bryce"
 date: "2023-02-16"
 output: html_document
 ---
 
-Bryce Robinson
+<center> [Bryce Robinson](https://github.com/bwr46) and [Caitlin Davis](https://github.com/CaitlinMDee)
 
-https://github.com/bwr46
-
-Caitlin Davis
-
-https://github.com/CaitlinMDee
+![](https://cdn.download.ams.birds.cornell.edu/api/v1/asset/178781331/1800)
