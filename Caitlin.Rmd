@@ -1,0 +1,7 @@
+---
+title: "Caitlin"
+output: html_document
+---
+- I am originally from Baltimore, MD
+- I am an ornithologist
+- Falcons are my favorite
