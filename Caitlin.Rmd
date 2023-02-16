@@ -1,7 +1,10 @@
 ---
-title: "Caitlin"
+title: Caitlin M. Davis 
 output: html_document
 ---
+![](https://ofbirdsandb.files.wordpress.com/2011/11/11013511_747784771575_3646557527751322432_n.jpg?w=500)
+---
+
 - I am originally from Baltimore, MD
 - I am an ornithologist
 - Falcons are my favorite
